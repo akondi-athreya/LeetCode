@@ -7,7 +7,7 @@ public:
         vector<int> res;
         int sum=0;
         while(i<j){
-            sum+=nums[i]+nums[j];
+            sum=nums[i]+nums[j];
             res.push_back(sum);
             i+=1;
             j-=1;
