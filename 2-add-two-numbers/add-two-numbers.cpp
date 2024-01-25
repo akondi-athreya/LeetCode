@@ -13,7 +13,6 @@ public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         ListNode* cpy1 = l1;
         ListNode* cpy2 = l2;
-
         ListNode* res;
         ListNode* temp;
         int i=0;
@@ -40,8 +39,7 @@ public:
                 ListNode* BC = new ListNode(z);
                 temp->next=BC;
                 temp=temp->next;
-            }
-            
+            }  
         }
         if(carry>0){
             ListNode* BC = new ListNode(1);
