@@ -11,7 +11,7 @@ public:
                 if (nums[j]==0)k++;
                 j++;
             }
-            cout<<j;
+            //cout<<j;
             mx=max(mx,i-j+1);
         
         }
