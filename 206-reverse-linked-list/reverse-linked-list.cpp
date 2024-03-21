@@ -12,8 +12,7 @@ class Solution {
 public:
     ListNode* fun(ListNode* head , ListNode*x){
         if(head==NULL) return x;
-        
-        ListNode*next=head->next;
+        ListNode* next=head->next;
         head->next=x;
         x=head;
         return fun(next,x);
