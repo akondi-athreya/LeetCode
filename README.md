@@ -44,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/akondi-athreya/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/akondi-athreya/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+## Database
+|  |
+| ------- |
+| [1811-fix-names-in-a-table](https://github.com/akondi-athreya/LeetCode/tree/master/1811-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
