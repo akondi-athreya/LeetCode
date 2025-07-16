@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3194-find-words-containing-character](https://github.com/akondi-athreya/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/akondi-athreya/LeetCode/tree/master/3396-valid-word) |
+| [3636-check-balanced-string](https://github.com/akondi-athreya/LeetCode/tree/master/3636-check-balanced-string) |
 ## Two Pointers
 |  |
 | ------- |
