@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/0165-compare-version-numbers) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akondi-athreya/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akondi-athreya/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3194-find-words-containing-character](https://github.com/akondi-athreya/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/0165-compare-version-numbers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akondi-athreya/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
