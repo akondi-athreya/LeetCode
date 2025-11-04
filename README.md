@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/akondi-athreya/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/akondi-athreya/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akondi-athreya/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akondi-athreya/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/akondi-athreya/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## String
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akondi-athreya/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2169-simple-bank-system](https://github.com/akondi-athreya/LeetCode/tree/master/2169-simple-bank-system) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akondi-athreya/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akondi-athreya/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1127-last-stone-weight](https://github.com/akondi-athreya/LeetCode/tree/master/1127-last-stone-weight) |
 | [1917-maximum-average-pass-ratio](https://github.com/akondi-athreya/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akondi-athreya/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/akondi-athreya/LeetCode/tree/master/0198-house-robber) |
+## Sliding Window
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akondi-athreya/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
