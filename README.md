@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/akondi-athreya/LeetCode/tree/master/1127-last-stone-weight) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/akondi-athreya/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/akondi-athreya/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1590-make-sum-divisible-by-p](https://github.com/akondi-athreya/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1917-maximum-average-pass-ratio](https://github.com/akondi-athreya/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2169-simple-bank-system](https://github.com/akondi-athreya/LeetCode/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akondi-athreya/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/akondi-athreya/LeetCode/tree/master/0012-integer-to-roman) |
 | [0496-next-greater-element-i](https://github.com/akondi-athreya/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akondi-athreya/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1590-make-sum-divisible-by-p](https://github.com/akondi-athreya/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [2169-simple-bank-system](https://github.com/akondi-athreya/LeetCode/tree/master/2169-simple-bank-system) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akondi-athreya/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akondi-athreya/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akondi-athreya/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/akondi-athreya/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 <!---LeetCode Topics End-->
