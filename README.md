@@ -91,15 +91,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/akondi-athreya/LeetCode/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0388-longest-absolute-file-path](https://github.com/akondi-athreya/LeetCode/tree/master/0388-longest-absolute-file-path) |
+| [0404-sum-of-left-leaves](https://github.com/akondi-athreya/LeetCode/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/akondi-athreya/LeetCode/tree/master/0404-sum-of-left-leaves) |
 ## Stack
 |  |
 | ------- |
@@ -193,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/akondi-athreya/LeetCode/tree/master/0397-integer-replacement) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/akondi-athreya/LeetCode/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
