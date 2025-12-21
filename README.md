@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/akondi-athreya/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1811-fix-names-in-a-table](https://github.com/akondi-athreya/LeetCode/tree/master/1811-fix-names-in-a-table) |
 ## Tree
 |  |
