@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/akondi-athreya/LeetCode/tree/master/0012-integer-to-roman) |
 | [0165-compare-version-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0345-reverse-vowels-of-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/akondi-athreya/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/akondi-athreya/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/akondi-athreya/LeetCode/tree/master/0392-is-subsequence) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akondi-athreya/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0345-reverse-vowels-of-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/akondi-athreya/LeetCode/tree/master/0392-is-subsequence) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akondi-athreya/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
