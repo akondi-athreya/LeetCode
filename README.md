@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/akondi-athreya/LeetCode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/akondi-athreya/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0396-rotate-function](https://github.com/akondi-athreya/LeetCode/tree/master/0396-rotate-function) |
+| [0455-assign-cookies](https://github.com/akondi-athreya/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/akondi-athreya/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/akondi-athreya/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0907-koko-eating-bananas](https://github.com/akondi-athreya/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -57,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/akondi-athreya/LeetCode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/akondi-athreya/LeetCode/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akondi-athreya/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/akondi-athreya/LeetCode/tree/master/0397-integer-replacement) |
+| [0455-assign-cookies](https://github.com/akondi-athreya/LeetCode/tree/master/0455-assign-cookies) |
 | [1448-maximum-69-number](https://github.com/akondi-athreya/LeetCode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akondi-athreya/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/akondi-athreya/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/akondi-athreya/LeetCode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/akondi-athreya/LeetCode/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/akondi-athreya/LeetCode/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akondi-athreya/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3748-sort-matrix-by-diagonals](https://github.com/akondi-athreya/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Backtracking
