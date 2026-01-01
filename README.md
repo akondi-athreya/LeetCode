@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akondi-athreya/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1544-make-the-string-great](https://github.com/akondi-athreya/LeetCode/tree/master/1544-make-the-string-great) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akondi-athreya/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3194-find-words-containing-character](https://github.com/akondi-athreya/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/akondi-athreya/LeetCode/tree/master/3396-valid-word) |
 | [3636-check-balanced-string](https://github.com/akondi-athreya/LeetCode/tree/master/3636-check-balanced-string) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/akondi-athreya/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akondi-athreya/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1590-make-sum-divisible-by-p](https://github.com/akondi-athreya/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2169-simple-bank-system](https://github.com/akondi-athreya/LeetCode/tree/master/2169-simple-bank-system) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akondi-athreya/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akondi-athreya/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
