@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akondi-athreya/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/akondi-athreya/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/akondi-athreya/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/akondi-athreya/LeetCode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/akondi-athreya/LeetCode/tree/master/0078-subsets) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/akondi-athreya/LeetCode/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/akondi-athreya/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/akondi-athreya/LeetCode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/akondi-athreya/LeetCode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/akondi-athreya/LeetCode/tree/master/0496-next-greater-element-i) |
