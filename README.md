@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/akondi-athreya/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/akondi-athreya/LeetCode/tree/master/0396-rotate-function) |
 | [0455-assign-cookies](https://github.com/akondi-athreya/LeetCode/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/akondi-athreya/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/akondi-athreya/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/akondi-athreya/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/akondi-athreya/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/akondi-athreya/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/akondi-athreya/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/akondi-athreya/LeetCode/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/akondi-athreya/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0824-goat-latin](https://github.com/akondi-athreya/LeetCode/tree/master/0824-goat-latin) |
 | [0944-delete-columns-to-make-sorted](https://github.com/akondi-athreya/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akondi-athreya/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/akondi-athreya/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/akondi-athreya/LeetCode/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/akondi-athreya/LeetCode/tree/master/0397-integer-replacement) |
+| [0474-ones-and-zeroes](https://github.com/akondi-athreya/LeetCode/tree/master/0474-ones-and-zeroes) |
 ## Sliding Window
 |  |
 | ------- |
