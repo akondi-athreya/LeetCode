@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/akondi-athreya/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1127-last-stone-weight](https://github.com/akondi-athreya/LeetCode/tree/master/1127-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/akondi-athreya/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/akondi-athreya/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1390-four-divisors](https://github.com/akondi-athreya/LeetCode/tree/master/1390-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/akondi-athreya/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/akondi-athreya/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/akondi-athreya/LeetCode/tree/master/0043-multiply-strings) |
 | [0396-rotate-function](https://github.com/akondi-athreya/LeetCode/tree/master/0396-rotate-function) |
 | [0840-magic-squares-in-grid](https://github.com/akondi-athreya/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/akondi-athreya/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1390-four-divisors](https://github.com/akondi-athreya/LeetCode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/akondi-athreya/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/akondi-athreya/LeetCode/tree/master/1448-maximum-69-number) |
