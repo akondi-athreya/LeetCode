@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/akondi-athreya/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/akondi-athreya/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/akondi-athreya/LeetCode/tree/master/0575-distribute-candies) |
+| [0821-shortest-distance-to-a-character](https://github.com/akondi-athreya/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0840-magic-squares-in-grid](https://github.com/akondi-athreya/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0860-lemonade-change](https://github.com/akondi-athreya/LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/akondi-athreya/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/akondi-athreya/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/akondi-athreya/LeetCode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/akondi-athreya/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0821-shortest-distance-to-a-character](https://github.com/akondi-athreya/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/akondi-athreya/LeetCode/tree/master/0824-goat-latin) |
 | [0944-delete-columns-to-make-sorted](https://github.com/akondi-athreya/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akondi-athreya/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/akondi-athreya/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/akondi-athreya/LeetCode/tree/master/0455-assign-cookies) |
+| [0821-shortest-distance-to-a-character](https://github.com/akondi-athreya/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akondi-athreya/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
