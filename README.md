@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/akondi-athreya/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akondi-athreya/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1544-make-the-string-great](https://github.com/akondi-athreya/LeetCode/tree/master/1544-make-the-string-great) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akondi-athreya/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3194-find-words-containing-character](https://github.com/akondi-athreya/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/akondi-athreya/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/akondi-athreya/LeetCode/tree/master/0860-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/akondi-athreya/LeetCode/tree/master/1448-maximum-69-number) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akondi-athreya/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/akondi-athreya/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akondi-athreya/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
