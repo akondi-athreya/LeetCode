@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/akondi-athreya/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/akondi-athreya/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/akondi-athreya/LeetCode/tree/master/0404-sum-of-left-leaves) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/akondi-athreya/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/akondi-athreya/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/akondi-athreya/LeetCode/tree/master/0404-sum-of-left-leaves) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/akondi-athreya/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/akondi-athreya/LeetCode/tree/master/0404-sum-of-left-leaves) |
 ## Divide and Conquer
 |  |
