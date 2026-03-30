@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/akondi-athreya/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/akondi-athreya/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0997-find-the-town-judge](https://github.com/akondi-athreya/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/akondi-athreya/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/akondi-athreya/LeetCode/tree/master/1127-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/akondi-athreya/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/akondi-athreya/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/akondi-athreya/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/akondi-athreya/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/akondi-athreya/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/akondi-athreya/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/akondi-athreya/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Database
 |  |
