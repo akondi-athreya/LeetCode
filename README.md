@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/akondi-athreya/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/akondi-athreya/LeetCode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/akondi-athreya/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0796-rotate-string](https://github.com/akondi-athreya/LeetCode/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/akondi-athreya/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/akondi-athreya/LeetCode/tree/master/0824-goat-latin) |
 | [0944-delete-columns-to-make-sorted](https://github.com/akondi-athreya/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -376,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/akondi-athreya/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/akondi-athreya/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
