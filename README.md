@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/akondi-athreya/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/akondi-athreya/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/akondi-athreya/LeetCode/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/akondi-athreya/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/akondi-athreya/LeetCode/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/akondi-athreya/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/akondi-athreya/LeetCode/tree/master/0493-reverse-pairs) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/akondi-athreya/LeetCode/tree/master/0011-container-with-most-water) |
 | [0397-integer-replacement](https://github.com/akondi-athreya/LeetCode/tree/master/0397-integer-replacement) |
+| [0410-split-array-largest-sum](https://github.com/akondi-athreya/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/akondi-athreya/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/akondi-athreya/LeetCode/tree/master/0860-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/akondi-athreya/LeetCode/tree/master/1448-maximum-69-number) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/akondi-athreya/LeetCode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/akondi-athreya/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/akondi-athreya/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/akondi-athreya/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/akondi-athreya/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akondi-athreya/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/akondi-athreya/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/akondi-athreya/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/akondi-athreya/LeetCode/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/akondi-athreya/LeetCode/tree/master/0397-integer-replacement) |
+| [0410-split-array-largest-sum](https://github.com/akondi-athreya/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/akondi-athreya/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/akondi-athreya/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/akondi-athreya/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/akondi-athreya/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/akondi-athreya/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/akondi-athreya/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Memoization
