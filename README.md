@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/akondi-athreya/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/akondi-athreya/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/akondi-athreya/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1901-find-a-peak-element-ii](https://github.com/akondi-athreya/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/akondi-athreya/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/akondi-athreya/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/akondi-athreya/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akondi-athreya/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/akondi-athreya/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/akondi-athreya/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/akondi-athreya/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Database
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/akondi-athreya/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/akondi-athreya/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/akondi-athreya/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/akondi-athreya/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1975-maximum-matrix-sum](https://github.com/akondi-athreya/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2643-row-with-maximum-ones](https://github.com/akondi-athreya/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/akondi-athreya/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
