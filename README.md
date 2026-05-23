@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akondi-athreya/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/akondi-athreya/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akondi-athreya/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2643-row-with-maximum-ones](https://github.com/akondi-athreya/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/akondi-athreya/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3194-find-words-containing-character](https://github.com/akondi-athreya/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/akondi-athreya/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/akondi-athreya/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/akondi-athreya/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/akondi-athreya/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [2643-row-with-maximum-ones](https://github.com/akondi-athreya/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/akondi-athreya/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/akondi-athreya/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
