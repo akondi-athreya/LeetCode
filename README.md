@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/akondi-athreya/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/akondi-athreya/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/akondi-athreya/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/akondi-athreya/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akondi-athreya/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/akondi-athreya/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/akondi-athreya/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akondi-athreya/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1590-make-sum-divisible-by-p](https://github.com/akondi-athreya/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/akondi-athreya/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/akondi-athreya/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akondi-athreya/LeetCode/tree/master/0169-majority-element) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/akondi-athreya/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Binary Indexed Tree
 |  |
 | ------- |
