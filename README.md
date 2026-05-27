@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/akondi-athreya/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/akondi-athreya/LeetCode/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/akondi-athreya/LeetCode/tree/master/0148-sort-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akondi-athreya/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/akondi-athreya/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/akondi-athreya/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## String Matching
