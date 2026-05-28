@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/akondi-athreya/LeetCode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/akondi-athreya/LeetCode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/akondi-athreya/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/akondi-athreya/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/akondi-athreya/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/akondi-athreya/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/akondi-athreya/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/akondi-athreya/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/akondi-athreya/LeetCode/tree/master/0216-combination-sum-iii) |
 | [1980-find-unique-binary-string](https://github.com/akondi-athreya/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akondi-athreya/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/akondi-athreya/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/akondi-athreya/LeetCode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akondi-athreya/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/akondi-athreya/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/akondi-athreya/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/akondi-athreya/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/akondi-athreya/LeetCode/tree/master/0213-house-robber-ii) |
