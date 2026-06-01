@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/akondi-athreya/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/akondi-athreya/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/akondi-athreya/LeetCode/tree/master/0575-distribute-candies) |
+| [0735-asteroid-collision](https://github.com/akondi-athreya/LeetCode/tree/master/0735-asteroid-collision) |
 | [0821-shortest-distance-to-a-character](https://github.com/akondi-athreya/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0840-magic-squares-in-grid](https://github.com/akondi-athreya/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0860-lemonade-change](https://github.com/akondi-athreya/LeetCode/tree/master/0860-lemonade-change) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/akondi-athreya/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0496-next-greater-element-i](https://github.com/akondi-athreya/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akondi-athreya/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/akondi-athreya/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/akondi-athreya/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1544-make-the-string-great](https://github.com/akondi-athreya/LeetCode/tree/master/1544-make-the-string-great) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akondi-athreya/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/akondi-athreya/LeetCode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/akondi-athreya/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/akondi-athreya/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0735-asteroid-collision](https://github.com/akondi-athreya/LeetCode/tree/master/0735-asteroid-collision) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/akondi-athreya/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/akondi-athreya/LeetCode/tree/master/1642-water-bottles) |
 | [2169-simple-bank-system](https://github.com/akondi-athreya/LeetCode/tree/master/2169-simple-bank-system) |
