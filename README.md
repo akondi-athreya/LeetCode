@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/akondi-athreya/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/akondi-athreya/LeetCode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/akondi-athreya/LeetCode/tree/master/0389-find-the-difference) |
+| [0460-lfu-cache](https://github.com/akondi-athreya/LeetCode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/akondi-athreya/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/akondi-athreya/LeetCode/tree/master/0575-distribute-candies) |
 | [0840-magic-squares-in-grid](https://github.com/akondi-athreya/LeetCode/tree/master/0840-magic-squares-in-grid) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/akondi-athreya/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/akondi-athreya/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/akondi-athreya/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0460-lfu-cache](https://github.com/akondi-athreya/LeetCode/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/akondi-athreya/LeetCode/tree/master/0901-online-stock-span) |
 | [2169-simple-bank-system](https://github.com/akondi-athreya/LeetCode/tree/master/2169-simple-bank-system) |
 ## Linked List
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/akondi-athreya/LeetCode/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/akondi-athreya/LeetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/akondi-athreya/LeetCode/tree/master/0148-sort-list) |
+| [0460-lfu-cache](https://github.com/akondi-athreya/LeetCode/tree/master/0460-lfu-cache) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akondi-athreya/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Dynamic Programming
 |  |
@@ -483,4 +486,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/akondi-athreya/LeetCode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/akondi-athreya/LeetCode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
