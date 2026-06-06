@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/akondi-athreya/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0860-lemonade-change](https://github.com/akondi-athreya/LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/akondi-athreya/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/akondi-athreya/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/akondi-athreya/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/akondi-athreya/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0944-delete-columns-to-make-sorted](https://github.com/akondi-athreya/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akondi-athreya/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/akondi-athreya/LeetCode/tree/master/0575-distribute-candies) |
 | [0840-magic-squares-in-grid](https://github.com/akondi-athreya/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0904-fruit-into-baskets](https://github.com/akondi-athreya/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/akondi-athreya/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akondi-athreya/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1590-make-sum-divisible-by-p](https://github.com/akondi-athreya/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/akondi-athreya/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/akondi-athreya/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/akondi-athreya/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akondi-athreya/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akondi-athreya/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
