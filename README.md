@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akondi-athreya/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2169-simple-bank-system](https://github.com/akondi-athreya/LeetCode/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akondi-athreya/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/akondi-athreya/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/akondi-athreya/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akondi-athreya/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2574-left-and-right-sum-differences](https://github.com/akondi-athreya/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/akondi-athreya/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/akondi-athreya/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/akondi-athreya/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/akondi-athreya/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/akondi-athreya/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/akondi-athreya/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Stack
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2169-simple-bank-system](https://github.com/akondi-athreya/LeetCode/tree/master/2169-simple-bank-system) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/akondi-athreya/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akondi-athreya/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akondi-athreya/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3668-restore-finishing-order](https://github.com/akondi-athreya/LeetCode/tree/master/3668-restore-finishing-order) |
