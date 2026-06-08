@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/akondi-athreya/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/akondi-athreya/LeetCode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/akondi-athreya/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/akondi-athreya/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/akondi-athreya/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akondi-athreya/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/akondi-athreya/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/akondi-athreya/LeetCode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/akondi-athreya/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0388-longest-absolute-file-path](https://github.com/akondi-athreya/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0404-sum-of-left-leaves](https://github.com/akondi-athreya/LeetCode/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/akondi-athreya/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/akondi-athreya/LeetCode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/akondi-athreya/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/akondi-athreya/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/akondi-athreya/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akondi-athreya/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/akondi-athreya/LeetCode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/akondi-athreya/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akondi-athreya/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/akondi-athreya/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/akondi-athreya/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/akondi-athreya/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/akondi-athreya/LeetCode/tree/master/0198-house-robber) |
