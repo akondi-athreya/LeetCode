@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akondi-athreya/LeetCode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/akondi-athreya/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/akondi-athreya/LeetCode/tree/master/0455-assign-cookies) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/akondi-athreya/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akondi-athreya/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2094-finding-3-digit-even-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/akondi-athreya/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/akondi-athreya/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/akondi-athreya/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akondi-athreya/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/akondi-athreya/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0388-longest-absolute-file-path](https://github.com/akondi-athreya/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0404-sum-of-left-leaves](https://github.com/akondi-athreya/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/akondi-athreya/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/akondi-athreya/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/akondi-athreya/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akondi-athreya/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Stack
 |  |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/akondi-athreya/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0904-fruit-into-baskets](https://github.com/akondi-athreya/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/akondi-athreya/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/akondi-athreya/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akondi-athreya/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akondi-athreya/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -467,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/akondi-athreya/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/akondi-athreya/LeetCode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/akondi-athreya/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
