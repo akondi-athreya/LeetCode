@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/akondi-athreya/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/akondi-athreya/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/akondi-athreya/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3838-weighted-word-mapping](https://github.com/akondi-athreya/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/akondi-athreya/LeetCode/tree/master/3396-valid-word) |
 | [3636-check-balanced-string](https://github.com/akondi-athreya/LeetCode/tree/master/3636-check-balanced-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akondi-athreya/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/akondi-athreya/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/akondi-athreya/LeetCode/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/akondi-athreya/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akondi-athreya/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/akondi-athreya/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
