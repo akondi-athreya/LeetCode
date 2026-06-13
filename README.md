@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0257-binary-tree-paths](https://github.com/akondi-athreya/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/akondi-athreya/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/akondi-athreya/LeetCode/tree/master/0389-find-the-difference) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/akondi-athreya/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akondi-athreya/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/akondi-athreya/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/akondi-athreya/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akondi-athreya/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0388-longest-absolute-file-path](https://github.com/akondi-athreya/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [0404-sum-of-left-leaves](https://github.com/akondi-athreya/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/akondi-athreya/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akondi-athreya/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/akondi-athreya/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/akondi-athreya/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/akondi-athreya/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/akondi-athreya/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/akondi-athreya/LeetCode/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/akondi-athreya/LeetCode/tree/master/0901-online-stock-span) |
 | [2169-simple-bank-system](https://github.com/akondi-athreya/LeetCode/tree/master/2169-simple-bank-system) |
@@ -504,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/akondi-athreya/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/akondi-athreya/LeetCode/tree/master/0112-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/akondi-athreya/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
