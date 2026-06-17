@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3194-find-words-containing-character](https://github.com/akondi-athreya/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/akondi-athreya/LeetCode/tree/master/3396-valid-word) |
+| [3614-process-string-with-special-operations-ii](https://github.com/akondi-athreya/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3636-check-balanced-string](https://github.com/akondi-athreya/LeetCode/tree/master/3636-check-balanced-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akondi-athreya/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/akondi-athreya/LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/akondi-athreya/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/akondi-athreya/LeetCode/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/akondi-athreya/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
+| [3614-process-string-with-special-operations-ii](https://github.com/akondi-athreya/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akondi-athreya/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/akondi-athreya/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Heap (Priority Queue)
