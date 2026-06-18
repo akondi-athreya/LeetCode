@@ -11,7 +11,6 @@ public:
         while (i >= 0 && j >= 0) {
             if (g[i] <= s[j]) {
                 cnt++;
-                // cout << "i : " << i << " , j : " << j << "\n";
                 i--;
                 j--;
             }
@@ -23,7 +22,3 @@ public:
         return cnt;
     }
 };
-
-// |
-// 2 3 - i
-// 1 2 - j
