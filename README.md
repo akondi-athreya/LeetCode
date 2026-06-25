@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akondi-athreya/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3668-restore-finishing-order](https://github.com/akondi-athreya/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3689-maximum-total-subarray-value-i](https://github.com/akondi-athreya/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/akondi-athreya/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/akondi-athreya/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/akondi-athreya/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3838-weighted-word-mapping](https://github.com/akondi-athreya/LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akondi-athreya/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akondi-athreya/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3668-restore-finishing-order](https://github.com/akondi-athreya/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/akondi-athreya/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/akondi-athreya/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Monotonic Stack
 |  |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/akondi-athreya/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [2574-left-and-right-sum-differences](https://github.com/akondi-athreya/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/akondi-athreya/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/akondi-athreya/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/akondi-athreya/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Memoization
 |  |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/akondi-athreya/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/akondi-athreya/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/akondi-athreya/LeetCode/tree/master/0493-reverse-pairs) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/akondi-athreya/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -617,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/akondi-athreya/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/akondi-athreya/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/akondi-athreya/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/akondi-athreya/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -625,12 +630,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/akondi-athreya/LeetCode/tree/master/0493-reverse-pairs) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/akondi-athreya/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akondi-athreya/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/akondi-athreya/LeetCode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/akondi-athreya/LeetCode/tree/master/0493-reverse-pairs) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/akondi-athreya/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
