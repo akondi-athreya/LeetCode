@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/akondi-athreya/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/akondi-athreya/LeetCode/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/akondi-athreya/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0705-design-hashset](https://github.com/akondi-athreya/LeetCode/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/akondi-athreya/LeetCode/tree/master/0735-asteroid-collision) |
 | [0821-shortest-distance-to-a-character](https://github.com/akondi-athreya/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0840-magic-squares-in-grid](https://github.com/akondi-athreya/LeetCode/tree/master/0840-magic-squares-in-grid) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akondi-athreya/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/akondi-athreya/LeetCode/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akondi-athreya/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0705-design-hashset](https://github.com/akondi-athreya/LeetCode/tree/master/0705-design-hashset) |
 | [0840-magic-squares-in-grid](https://github.com/akondi-athreya/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/akondi-athreya/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/akondi-athreya/LeetCode/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/akondi-athreya/LeetCode/tree/master/0460-lfu-cache) |
+| [0705-design-hashset](https://github.com/akondi-athreya/LeetCode/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/akondi-athreya/LeetCode/tree/master/0901-online-stock-span) |
 | [2169-simple-bank-system](https://github.com/akondi-athreya/LeetCode/tree/master/2169-simple-bank-system) |
 ## Linked List
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/akondi-athreya/LeetCode/tree/master/0148-sort-list) |
 | [0355-design-twitter](https://github.com/akondi-athreya/LeetCode/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/akondi-athreya/LeetCode/tree/master/0460-lfu-cache) |
+| [0705-design-hashset](https://github.com/akondi-athreya/LeetCode/tree/master/0705-design-hashset) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akondi-athreya/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akondi-athreya/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akondi-athreya/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -712,4 +716,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akondi-athreya/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/akondi-athreya/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
