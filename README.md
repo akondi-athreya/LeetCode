@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/akondi-athreya/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3689-maximum-total-subarray-value-i](https://github.com/akondi-athreya/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akondi-athreya/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/akondi-athreya/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/akondi-athreya/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/akondi-athreya/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3838-weighted-word-mapping](https://github.com/akondi-athreya/LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akondi-athreya/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3668-restore-finishing-order](https://github.com/akondi-athreya/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akondi-athreya/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/akondi-athreya/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/akondi-athreya/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Monotonic Stack
 |  |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/akondi-athreya/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/akondi-athreya/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akondi-athreya/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/akondi-athreya/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3903-smallest-stable-index-i](https://github.com/akondi-athreya/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Memoization
 |  |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/akondi-athreya/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/akondi-athreya/LeetCode/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akondi-athreya/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/akondi-athreya/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
@@ -633,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/akondi-athreya/LeetCode/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akondi-athreya/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/akondi-athreya/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -640,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/akondi-athreya/LeetCode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/akondi-athreya/LeetCode/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akondi-athreya/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/akondi-athreya/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Ordered Set
 |  |
 | ------- |
