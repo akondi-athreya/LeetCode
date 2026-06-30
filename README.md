@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/akondi-athreya/LeetCode/tree/master/0062-unique-paths) |
 | [0396-rotate-function](https://github.com/akondi-athreya/LeetCode/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/akondi-athreya/LeetCode/tree/master/0415-add-strings) |
+| [0728-self-dividing-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/akondi-athreya/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/akondi-athreya/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/akondi-athreya/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
