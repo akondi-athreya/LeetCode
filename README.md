@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akondi-athreya/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2574-left-and-right-sum-differences](https://github.com/akondi-athreya/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2643-row-with-maximum-ones](https://github.com/akondi-athreya/LeetCode/tree/master/2643-row-with-maximum-ones) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/akondi-athreya/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/akondi-athreya/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akondi-athreya/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3194-find-words-containing-character](https://github.com/akondi-athreya/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/akondi-athreya/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/akondi-athreya/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/akondi-athreya/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/akondi-athreya/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akondi-athreya/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Database
 |  |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/akondi-athreya/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1975-maximum-matrix-sum](https://github.com/akondi-athreya/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2643-row-with-maximum-ones](https://github.com/akondi-athreya/LeetCode/tree/master/2643-row-with-maximum-ones) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/akondi-athreya/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/akondi-athreya/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/akondi-athreya/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/akondi-athreya/LeetCode/tree/master/0355-design-twitter) |
 | [1127-last-stone-weight](https://github.com/akondi-athreya/LeetCode/tree/master/1127-last-stone-weight) |
 | [1917-maximum-average-pass-ratio](https://github.com/akondi-athreya/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/akondi-athreya/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akondi-athreya/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Combinatorics
 |  |
@@ -620,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/akondi-athreya/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -729,4 +734,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/akondi-athreya/LeetCode/tree/master/0705-design-hashset) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/akondi-athreya/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
