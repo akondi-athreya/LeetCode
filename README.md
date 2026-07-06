@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akondi-athreya/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/akondi-athreya/LeetCode/tree/master/1127-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/akondi-athreya/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/akondi-athreya/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/akondi-athreya/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/akondi-athreya/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1390-four-divisors](https://github.com/akondi-athreya/LeetCode/tree/master/1390-four-divisors) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/akondi-athreya/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/akondi-athreya/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/akondi-athreya/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/akondi-athreya/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akondi-athreya/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2094-finding-3-digit-even-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
