@@ -1,8 +1,14 @@
 class Solution {
 public:
     int maxDistinct(string s) {
-        unordered_set<char> st;
-        for (char& ch : s) st.insert(ch);
-        return st.size();
+        int mp[26] = {0};
+        int ans = 0;
+        for (char& ch : s) {
+            if (mp[ch-'a'] == 0) {
+                ans++;
+                mp[ch-'a'] = 1;
+            }
+        }
+        return ans;
     }
 };
