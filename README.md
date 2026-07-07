@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/akondi-athreya/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/akondi-athreya/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0748-shortest-completing-word](https://github.com/akondi-athreya/LeetCode/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/akondi-athreya/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/akondi-athreya/LeetCode/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/akondi-athreya/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/akondi-athreya/LeetCode/tree/master/0824-goat-latin) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akondi-athreya/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/akondi-athreya/LeetCode/tree/master/0705-design-hashset) |
 | [0748-shortest-completing-word](https://github.com/akondi-athreya/LeetCode/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/akondi-athreya/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0840-magic-squares-in-grid](https://github.com/akondi-athreya/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/akondi-athreya/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/akondi-athreya/LeetCode/tree/master/0904-fruit-into-baskets) |
