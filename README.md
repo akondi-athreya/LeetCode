@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/akondi-athreya/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akondi-athreya/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akondi-athreya/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/akondi-athreya/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akondi-athreya/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akondi-athreya/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3668-restore-finishing-order](https://github.com/akondi-athreya/LeetCode/tree/master/3668-restore-finishing-order) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/akondi-athreya/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/akondi-athreya/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akondi-athreya/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/akondi-athreya/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akondi-athreya/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Database
 |  |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/akondi-athreya/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akondi-athreya/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akondi-athreya/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/akondi-athreya/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akondi-athreya/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3668-restore-finishing-order](https://github.com/akondi-athreya/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akondi-athreya/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -760,8 +763,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akondi-athreya/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akondi-athreya/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/akondi-athreya/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akondi-athreya/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/akondi-athreya/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
