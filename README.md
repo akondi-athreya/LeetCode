@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3194-find-words-containing-character](https://github.com/akondi-athreya/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/akondi-athreya/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3280-convert-date-to-binary](https://github.com/akondi-athreya/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3396-valid-word](https://github.com/akondi-athreya/LeetCode/tree/master/3396-valid-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/akondi-athreya/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/akondi-athreya/LeetCode/tree/master/1642-water-bottles) |
 | [2288-count-operations-to-obtain-zero](https://github.com/akondi-athreya/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/akondi-athreya/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3280-convert-date-to-binary](https://github.com/akondi-athreya/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akondi-athreya/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akondi-athreya/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akondi-athreya/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
