@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/akondi-athreya/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akondi-athreya/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/akondi-athreya/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1528-shuffle-string](https://github.com/akondi-athreya/LeetCode/tree/master/1528-shuffle-string) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/akondi-athreya/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/akondi-athreya/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/akondi-athreya/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/akondi-athreya/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akondi-athreya/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akondi-athreya/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1528-shuffle-string](https://github.com/akondi-athreya/LeetCode/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/akondi-athreya/LeetCode/tree/master/1544-make-the-string-great) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/akondi-athreya/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
