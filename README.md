@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/akondi-athreya/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/akondi-athreya/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/akondi-athreya/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1773-count-items-matching-a-rule](https://github.com/akondi-athreya/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1833-maximum-ice-cream-bars](https://github.com/akondi-athreya/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1901-find-a-peak-element-ii](https://github.com/akondi-athreya/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/akondi-athreya/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/akondi-athreya/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/akondi-athreya/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1773-count-items-matching-a-rule](https://github.com/akondi-athreya/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/akondi-athreya/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/akondi-athreya/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akondi-athreya/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
