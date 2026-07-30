@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akondi-athreya/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3194-find-words-containing-character](https://github.com/akondi-athreya/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3206-alternating-groups-i](https://github.com/akondi-athreya/LeetCode/tree/master/3206-alternating-groups-i) |
+| [3248-snake-in-matrix](https://github.com/akondi-athreya/LeetCode/tree/master/3248-snake-in-matrix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/akondi-athreya/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akondi-athreya/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akondi-athreya/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/akondi-athreya/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3194-find-words-containing-character](https://github.com/akondi-athreya/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/akondi-athreya/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3248-snake-in-matrix](https://github.com/akondi-athreya/LeetCode/tree/master/3248-snake-in-matrix) |
 | [3280-convert-date-to-binary](https://github.com/akondi-athreya/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3396-valid-word](https://github.com/akondi-athreya/LeetCode/tree/master/3396-valid-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/akondi-athreya/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/akondi-athreya/LeetCode/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/akondi-athreya/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
+| [3248-snake-in-matrix](https://github.com/akondi-athreya/LeetCode/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/akondi-athreya/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akondi-athreya/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
