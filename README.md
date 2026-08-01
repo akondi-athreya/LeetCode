@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/akondi-athreya/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2315-count-asterisks](https://github.com/akondi-athreya/LeetCode/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/akondi-athreya/LeetCode/tree/master/2325-decode-the-message) |
+| [2785-sort-vowels-in-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/akondi-athreya/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3194-find-words-containing-character](https://github.com/akondi-athreya/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/akondi-athreya/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akondi-athreya/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akondi-athreya/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2785-sort-vowels-in-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/akondi-athreya/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/akondi-athreya/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akondi-athreya/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
