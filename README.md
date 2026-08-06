@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akondi-athreya/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akondi-athreya/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/akondi-athreya/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akondi-athreya/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Math
 |  |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/akondi-athreya/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/akondi-athreya/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3280-convert-date-to-binary](https://github.com/akondi-athreya/LeetCode/tree/master/3280-convert-date-to-binary) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/akondi-athreya/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akondi-athreya/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/akondi-athreya/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akondi-athreya/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
