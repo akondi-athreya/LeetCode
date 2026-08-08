@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/akondi-athreya/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/akondi-athreya/LeetCode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/akondi-athreya/LeetCode/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/akondi-athreya/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/akondi-athreya/LeetCode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/akondi-athreya/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/akondi-athreya/LeetCode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/akondi-athreya/LeetCode/tree/master/0062-unique-paths) |
 | [0396-rotate-function](https://github.com/akondi-athreya/LeetCode/tree/master/0396-rotate-function) |
+| [0412-fizz-buzz](https://github.com/akondi-athreya/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/akondi-athreya/LeetCode/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/0728-self-dividing-numbers) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/akondi-athreya/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/akondi-athreya/LeetCode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/akondi-athreya/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/akondi-athreya/LeetCode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/akondi-athreya/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/akondi-athreya/LeetCode/tree/master/0566-reshape-the-matrix) |
