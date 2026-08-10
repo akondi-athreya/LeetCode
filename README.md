@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/akondi-athreya/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/akondi-athreya/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/akondi-athreya/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/akondi-athreya/LeetCode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akondi-athreya/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/akondi-athreya/LeetCode/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/akondi-athreya/LeetCode/tree/master/1544-make-the-string-great) |
