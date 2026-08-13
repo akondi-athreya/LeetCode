@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/akondi-athreya/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/akondi-athreya/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2278-percentage-of-letter-in-string](https://github.com/akondi-athreya/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2315-count-asterisks](https://github.com/akondi-athreya/LeetCode/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/akondi-athreya/LeetCode/tree/master/2325-decode-the-message) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
