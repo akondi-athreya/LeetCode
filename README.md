@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/akondi-athreya/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/akondi-athreya/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akondi-athreya/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/akondi-athreya/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-find-words-containing-character](https://github.com/akondi-athreya/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3206-alternating-groups-i](https://github.com/akondi-athreya/LeetCode/tree/master/3206-alternating-groups-i) |
 | [3248-snake-in-matrix](https://github.com/akondi-athreya/LeetCode/tree/master/3248-snake-in-matrix) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akondi-athreya/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akondi-athreya/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/akondi-athreya/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/akondi-athreya/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/akondi-athreya/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akondi-athreya/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akondi-athreya/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
