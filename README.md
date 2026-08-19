@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akondi-athreya/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2574-left-and-right-sum-differences](https://github.com/akondi-athreya/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2643-row-with-maximum-ones](https://github.com/akondi-athreya/LeetCode/tree/master/2643-row-with-maximum-ones) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/akondi-athreya/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/akondi-athreya/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akondi-athreya/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/akondi-athreya/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/akondi-athreya/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akondi-athreya/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/akondi-athreya/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/akondi-athreya/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/akondi-athreya/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/akondi-athreya/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/akondi-athreya/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/akondi-athreya/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2325-decode-the-message](https://github.com/akondi-athreya/LeetCode/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/akondi-athreya/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/akondi-athreya/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/akondi-athreya/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akondi-athreya/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akondi-athreya/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
