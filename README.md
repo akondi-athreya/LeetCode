@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/akondi-athreya/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akondi-athreya/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/akondi-athreya/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2032-two-out-of-three](https://github.com/akondi-athreya/LeetCode/tree/master/2032-two-out-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2104-sum-of-subarray-ranges](https://github.com/akondi-athreya/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2109-adding-spaces-to-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/akondi-athreya/LeetCode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/akondi-athreya/LeetCode/tree/master/0397-integer-replacement) |
 | [1009-complement-of-base-10-integer](https://github.com/akondi-athreya/LeetCode/tree/master/1009-complement-of-base-10-integer) |
+| [2032-two-out-of-three](https://github.com/akondi-athreya/LeetCode/tree/master/2032-two-out-of-three) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akondi-athreya/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/akondi-athreya/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/akondi-athreya/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/akondi-athreya/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1980-find-unique-binary-string](https://github.com/akondi-athreya/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/akondi-athreya/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2032-two-out-of-three](https://github.com/akondi-athreya/LeetCode/tree/master/2032-two-out-of-three) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2169-simple-bank-system](https://github.com/akondi-athreya/LeetCode/tree/master/2169-simple-bank-system) |
