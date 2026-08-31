@@ -720,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/akondi-athreya/LeetCode/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/akondi-athreya/LeetCode/tree/master/0705-design-hashset) |
 | [0725-split-linked-list-in-parts](https://github.com/akondi-athreya/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/akondi-athreya/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akondi-athreya/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akondi-athreya/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akondi-athreya/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
