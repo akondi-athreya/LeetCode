@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/akondi-athreya/LeetCode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/akondi-athreya/LeetCode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/akondi-athreya/LeetCode/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/akondi-athreya/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/akondi-athreya/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/akondi-athreya/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/akondi-athreya/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/akondi-athreya/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/akondi-athreya/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/akondi-athreya/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akondi-athreya/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akondi-athreya/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/akondi-athreya/LeetCode/tree/master/0131-palindrome-partitioning) |
