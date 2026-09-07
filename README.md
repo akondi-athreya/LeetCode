@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/akondi-athreya/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2363-merge-similar-items](https://github.com/akondi-athreya/LeetCode/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/akondi-athreya/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2399-check-distances-between-same-letters](https://github.com/akondi-athreya/LeetCode/tree/master/2399-check-distances-between-same-letters) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/akondi-athreya/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akondi-athreya/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2574-left-and-right-sum-differences](https://github.com/akondi-athreya/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/akondi-athreya/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2315-count-asterisks](https://github.com/akondi-athreya/LeetCode/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/akondi-athreya/LeetCode/tree/master/2325-decode-the-message) |
+| [2399-check-distances-between-same-letters](https://github.com/akondi-athreya/LeetCode/tree/master/2399-check-distances-between-same-letters) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/akondi-athreya/LeetCode/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/akondi-athreya/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/akondi-athreya/LeetCode/tree/master/2325-decode-the-message) |
 | [2363-merge-similar-items](https://github.com/akondi-athreya/LeetCode/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/akondi-athreya/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2399-check-distances-between-same-letters](https://github.com/akondi-athreya/LeetCode/tree/master/2399-check-distances-between-same-letters) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/akondi-athreya/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/akondi-athreya/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/akondi-athreya/LeetCode/tree/master/2716-minimize-string-length) |
