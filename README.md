@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/akondi-athreya/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/akondi-athreya/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/akondi-athreya/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/akondi-athreya/LeetCode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/akondi-athreya/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akondi-athreya/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/akondi-athreya/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/akondi-athreya/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0474-ones-and-zeroes](https://github.com/akondi-athreya/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0500-keyboard-row](https://github.com/akondi-athreya/LeetCode/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/akondi-athreya/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0748-shortest-completing-word](https://github.com/akondi-athreya/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/akondi-athreya/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/akondi-athreya/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/akondi-athreya/LeetCode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/akondi-athreya/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/akondi-athreya/LeetCode/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/akondi-athreya/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0575-distribute-candies](https://github.com/akondi-athreya/LeetCode/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akondi-athreya/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
