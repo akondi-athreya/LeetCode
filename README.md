@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/akondi-athreya/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/akondi-athreya/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3838-weighted-word-mapping](https://github.com/akondi-athreya/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3842-toggle-light-bulbs](https://github.com/akondi-athreya/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3903-smallest-stable-index-i](https://github.com/akondi-athreya/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/akondi-athreya/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## String
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akondi-athreya/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3731-find-missing-elements](https://github.com/akondi-athreya/LeetCode/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/akondi-athreya/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3842-toggle-light-bulbs](https://github.com/akondi-athreya/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Backtracking
 |  |
 | ------- |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akondi-athreya/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/akondi-athreya/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/akondi-athreya/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3842-toggle-light-bulbs](https://github.com/akondi-athreya/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3945-digit-frequency-score](https://github.com/akondi-athreya/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Monotonic Stack
 |  |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akondi-athreya/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/akondi-athreya/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/akondi-athreya/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3842-toggle-light-bulbs](https://github.com/akondi-athreya/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3894-traffic-signal-color](https://github.com/akondi-athreya/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Heap (Priority Queue)
 |  |
